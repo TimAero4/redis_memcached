@@ -5,8 +5,7 @@
 ## 2. Memcached
 ### [installaton](image/2_install_apt_memcached.png)
 ### [status](image/2.1_status_memcached.png)
-### [set_key](image/2.2_telnet_11211.png)
 ## 3. Delete in Memchached(TTL)
-###
+### [set_name](image/3_set_name.png)
 ## 4. Write in Redis
 
