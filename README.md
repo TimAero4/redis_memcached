@@ -8,4 +8,4 @@
 ## 3. Delete in Memchached(TTL)
 ### [set_name](image/3_set_name.png)
 ## 4. Write in Redis
-
+### [redis](image/4_redis.png)
